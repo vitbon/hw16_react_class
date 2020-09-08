@@ -28,7 +28,7 @@ const contactsMock = [{
 }, {
   firstName: "Теодор",
   lastName: "Мотсбес",
-  phone: "+380956319521",
+  phone: "+380678123456",
   gender: "male"
 }, {
   firstName: "Іван",
